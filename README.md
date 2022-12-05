@@ -1,6 +1,6 @@
 # lafyuu
 
-A new Flutter project.
+A Flutter project made with Riverpod
 
 ## Getting Started
 
